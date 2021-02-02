@@ -1,3 +1,3 @@
 # reporter
 
-A script to set as your cronjobs
+A script to set as your cronjob.
