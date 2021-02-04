@@ -263,5 +263,5 @@ done
 delete_folders
 
 echo "Recon is completed,don't forget to check outputs..."
+echo "You should use cat,tail,grep to see newly addes data.."
 emissary -t -m "Informer completed his cronjobs for you,Don't forget to check resuls,You may find some juicy stuffs"
-#Use find to delete all.txt
