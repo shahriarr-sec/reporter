@@ -1,5 +1,7 @@
 # reporter
 
+#Recron Script xD
+
 A script to set as your cronjob.
 
 
