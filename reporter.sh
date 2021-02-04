@@ -3,8 +3,8 @@
 #Does not take screenshots take manually, remember database is in .gdrive/.Database
 host=$1
 #Change the word list path to use your own wordlist.Word lists must end with wordlist.txt. e.g /path/wordlist.txt
-wordlist_dns="/root/tools/cron/wordlist.txt"
-resolvers="/root/tools/cron/resolvers.txt"
+wordlist_dns="/root/tools/reporter/wordlist.txt"
+resolvers="/root/tools/reporter/resolvers.txt"
 
 subdomain_enum(){
 for sub in $(cat $host);
